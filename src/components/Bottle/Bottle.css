@@ -1,0 +1,8 @@
+.card{
+    padding: 20px;
+    border: 2px solid teal;
+    border-radius: 20px;
+}
+.bottle img{
+    width: 250px;
+}
